@@ -1,0 +1,67 @@
+body{
+    background-color: #FFF1DC;
+}
+.mainbox{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    margin-top: 150px;
+    background-color: white;
+    text-align: center;
+    border-radius: 0.75em;
+}
+#sub-box1{
+    width: 250px;
+    height: 400px;
+    background-color: white;
+    border-top-left-radius: 0.75rem;
+    border-bottom-left-radius: 0.75rem;
+}
+#sub-box2{
+    width: 250px;
+    height: 400px;
+    padding: 5px 30px 30px 30px;
+    
+}
+img{
+    width: 250px;
+    height: 400px;
+    
+    border-top-left-radius: 0.75rem;
+    border-bottom-left-radius: 0.75rem;
+}
+#cart{
+    height: 2.35em;
+    width: 12em;
+    background-color: #1F8A70;
+    border-radius: 0.5rem;
+    margin: auto;
+}
+#cart1{
+    color: white;
+    margin: auto;
+    margin-left: 15px;
+}
+.cartcolor{
+    margin: 5px 6px 5px 9px;
+    
+    width: 2em;
+    height: 1.25em;
+}
+#font1{
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+    letter-spacing: 3px;
+    font-weight: lighter;
+}
+#font2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+#font3{
+    font-family: 'Merriweather', serif;
+    font-size: 15px;
+}
+#spacing{
+    word-spacing: 1rem;
+}
